@@ -21,7 +21,7 @@ I'm Ali, a Software Engineer passionate about building reliable software and sol
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="650" src=https://raw.githubusercontent.com/0xZeroVoid/0xZeroVoid/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github.com/0xZeroVoid/0xZeroVoid/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution Snake">
 </p>
 
 ---
@@ -29,7 +29,7 @@ I'm Ali, a Software Engineer passionate about building reliable software and sol
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,django,flask,linux,docker,git,postgresql,sqlite,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,linux,docker,git,github,postgresql,sqlite,bash&perline=5" />
 </p>
 
 ---
