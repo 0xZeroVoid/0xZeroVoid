@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 ## 🐍 Contribution Snake
 
+-->
+## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xZeroVoid/0xZeroVoid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
--->
