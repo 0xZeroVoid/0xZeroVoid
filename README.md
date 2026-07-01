@@ -6,9 +6,7 @@
 
 > *Building reliable software, one commit at a time.*
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Open+Source+Enthusiast;Always+Learning..." />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Open+Source+Enthusiast;Linux+Enthusiast;Always+Learning;Building+Reliable+Software"/>
 
 </div>
 
@@ -28,44 +26,10 @@ I'm Ali, a Software Engineer passionate about building reliable software and sol
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xZeroVoid&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZeroVoid&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xZeroVoid&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xZeroVoid&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xZeroVoid/0xZeroVoid/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xZeroVoid&theme=darkhub&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="https://raw.githubusercontent.com/0xZeroVoid/0xZeroVoid/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
