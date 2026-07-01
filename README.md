@@ -1,24 +1,79 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**0xZeroVoid/0xZeroVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 0xZeroVoid
 
-Here are some ideas to get you started:
+### Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> *Building reliable software, one commit at a time.*
 
-## 🐍 Contribution Snake
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Open+Source+Enthusiast;Always+Learning..." />
+</p>
 
--->
+</div>
+
+---
+
+## About
+
+I'm Ali, a Software Engineer passionate about building reliable software and solving real-world problems. I enjoy designing scalable systems, exploring new technologies, and continuously improving my craft. I believe strong programming fundamentals matter more than any specific language or framework, enabling me to adapt quickly and build efficient, maintainable solutions.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,linux,docker,git,github,postgresql,sqlite,bash,vscode&perline=6" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xZeroVoid&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZeroVoid&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=0xZeroVoid&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xZeroVoid&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xZeroVoid/0xZeroVoid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/0xZeroVoid/0xZeroVoid/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xZeroVoid&theme=darkhub&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+---
+
+<div align="center">
+
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+
+**— Harold Abelson**
+
+</div>
