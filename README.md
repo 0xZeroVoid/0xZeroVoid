@@ -18,18 +18,18 @@ I'm Ali, a Software Engineer passionate about building reliable software and sol
 
 ---
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,linux,docker,git,github,postgresql,sqlite,bash,vscode&perline=6" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xZeroVoid/0xZeroVoid/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,django,flask,linux,docker,git,postgresql,sqlite,bash&perline=6" />
 </p>
 
 ---
