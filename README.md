@@ -29,7 +29,7 @@ I'm Ali, a Software Engineer passionate about building reliable software and sol
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,django,flask,linux,docker,git,postgresql,sqlite,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,rust,django,flask,linux,docker,git,postgresql,sqlite,bash&perline=6" />
 </p>
 
 ---
