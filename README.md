@@ -21,7 +21,7 @@ I'm Ali, a Software Engineer passionate about building reliable software and sol
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/0xZeroVoid/0xZeroVoid/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution Snake">
+  <img width="760" src="https://raw.githubusercontent.com/0xZeroVoid/0xZeroVoid/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
