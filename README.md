@@ -4,9 +4,23 @@
 
 ### Software Engineer
 
-> *Building reliable software, one commit at a time.*
+```text
+┌──(ali㉿0xZeroVoid)-[~]
+└─$ whoami
+Ali
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Open+Source+Enthusiast;Linux+Enthusiast;Always+Learning;Building+Reliable+Software"/>
+┌──(ali㉿0xZeroVoid)-[~]
+└─$ hostname
+0xZeroVoid
+
+┌──(ali㉿0xZeroVoid)-[~]
+└─$ uptime
+Always learning.
+
+┌──(ali㉿0xZeroVoid)-[~]
+└─$
+█
+```
 
 </div>
 
@@ -21,7 +35,7 @@ I'm Ali, a Software Engineer passionate about building reliable software and sol
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="760" src="https://raw.githubusercontent.com/0xZeroVoid/0xZeroVoid/output/github-contribution-grid-snake-dark.svg" />
+  <img width="950" src="https://raw.githubusercontent.com/0xZeroVoid/0xZeroVoid/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -29,15 +43,15 @@ I'm Ali, a Software Engineer passionate about building reliable software and sol
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,linux,docker,git,github,postgresql,sqlite,bash&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,django,flask,linux,docker,git,postgresql,sqlite,bash&perline=6" />
 </p>
 
 ---
 
 <div align="center">
 
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> *"Talk is cheap. Show me the code."*
 
-**— Harold Abelson**
+**— Linus Torvalds**
 
 </div>
