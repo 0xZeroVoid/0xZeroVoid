@@ -7,7 +7,7 @@
 > *Building reliable software.*
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1800&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Backend+Developer;Linux+Enthusiast;Strong+Programming+Fundamentals;Building+Reliable+Software"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1800&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineering;Building+Reliable+Software;Backend+Development;Linux+Enthusiast;One+Commit+at+a+Time"
   alt="Typing SVG"
 />
 
