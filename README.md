@@ -2,9 +2,7 @@
 
 # 0xZeroVoid
 
-### Software Engineer
-
-> *Building reliable software.*
+### Software Engineer & Backend Developer
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1800&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineering;Building+Reliable+Software;Backend+Development;Linux+Enthusiast;One+Commit+at+a+Time"
