@@ -4,12 +4,6 @@
 
 ### Software Engineer
 
-<div align="center">
-
-# 0xZeroVoid
-
-### Software Engineer
-
 > *Building reliable software.*
 
 <img
